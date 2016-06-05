@@ -7,6 +7,8 @@ public class Area {
     private String telArea;
     private int cantEmp;
     private String marvin;
+    private String ramirez;
+    private String martinez;
   
    
     public Area() {
