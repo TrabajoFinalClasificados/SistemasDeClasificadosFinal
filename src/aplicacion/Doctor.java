@@ -10,6 +10,7 @@ public class Doctor {
     private int codVenta;
     private String nomEmp;
     private String ppp;
+    private Int numero;
  
    
 
