@@ -6,6 +6,7 @@ public class Area {
     private String nomArea;
     private String telArea;
     private int cantEmp;
+    private String marvin;
   
    
     public Area() {
